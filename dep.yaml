@@ -11,7 +11,7 @@ spec:
     app: apache
   ports:
   - protocol: TCP
-    port: 8092
+    port: 8093
     targetPort: 80
     name: http
 
