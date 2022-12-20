@@ -38,7 +38,7 @@ spec:
         image: ashwatha12/my-nginx
         ports:
         - containerPort: 80
-        e
+        
 
 
 
